@@ -216,19 +216,26 @@ Reduce excessive discounting to protect profit margins.
 
 📷 Project Preview
 
-![01_Total_Sales_by_Year](01_Total_Sales_by_Year.png)
+## 01. Total Sales by Year
+![Total Sales by Year](01_Total_Sales_by_Year.png)
 
-![02_Total_Sales_by_Category](02_Total_Sales_by_Category.png)
+## 02. Total Sales by Category
+![Total Sales by Category](02_Total_Sales_by_Category.png)
 
-![03_Profit_by_Category](03_Profit_by_Category.png)
+## 03. Profit by Category
+![Profit by Category](03_Profit_by_Category.png)
 
-![04_Total_Sales](04_Total_Sales.png)
+## 04. Total Sales
+![Total Sales](04_Total_Sales.png)
 
-![05_Regional_Sales_Analysis](05_Regional_Sales_Analysis.png)
+## 05. Regional Sales Analysis
+![Regional Sales Analysis](05_Regional_Sales_Analysis.png)
 
-![06_Top_10_Customers](06_Top_10_Customers.png)
+## 06. Top 10 Customers
+![Top 10 Customers](06_Top_10_Customers.png)
 
-![07_Top_10_Products](07_Top_10_Products.png)
+## 07. Top 10 Products
+![Top 10 Products](07_Top_10_Products.png)
 
 ---
 
